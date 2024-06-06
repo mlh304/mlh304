@@ -22,3 +22,6 @@ I worked as an academician that gave me experience in professional skills, espec
  - Concept Topic- [Getting Started with Jira](https://1drv.ms/w/s!AvY51_mRYwHq7zFmLQI2k538IvtF?e=CZa8KJ)
  - Task Topic- [Creating a Profile in Jira](https://1drv.ms/w/s!AvY51_mRYwHq7y9nU4o79zkDEZon?e=WaFstu)
  - User Guide- [Assigning Tasks in Jira](https://1drv.ms/w/s!AvY51_mRYwHq7iW8xRfX3shosg3g?e=uAreEP)
+
+### For more information
+- [Resume]()
