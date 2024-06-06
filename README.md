@@ -15,8 +15,8 @@ I worked as an academician that gave me experience in professional skills, espec
   - Agile Project Management
 
 ## Academic Skills
-  - M.E. Aeronautical Engineering, Anna University, Chennai, India – 2013.
-  - B.E. Aeronautical Engineering, Anna University, Chennai, India – 2011.
+  - Master of Engineering, Anna University, Chennai, India – 2013.
+  - Bachelor of Engineering, Anna University, Chennai, India – 2011.
 
 ## Test Projects
  - Concept Topic- [Getting Started with Jira](https://1drv.ms/w/s!AvY51_mRYwHq7zFmLQI2k538IvtF?e=CZa8KJ)
