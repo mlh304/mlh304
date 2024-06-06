@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm HARIRAMAKRISHNAN
 
-<!--
-**mlh304/mlh304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objective
+I worked as an academician that gave me a experience in professional skills, especially proofreading, frame-making, and content-writing skills. Now I'm eagerly looking for a field transition in the industry as a Technical Writer.
 
-Here are some ideas to get you started:
+## Experience
+  Eight years of professional experience as an Teaching Instructor in Universities.
+  Gudided the research and project with structure and unstructures doucuments for publication.
+  Entry level content writer in university IT team to preapre the MIS portal documentation preparation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Software Knowledge
+  
+      
