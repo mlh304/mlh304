@@ -19,7 +19,7 @@ I worked as an academician that gave me experience in professional skills, espec
   - B.E. Aeronautical Engineering, Anna University, Chennai, India – 2011.
 
 ## Test Projects
- - Concept Topic - 
- - Task Topic
- - User Guide
+ - Concept Topic- Getting Started with Jira
+ - Task Topic- Creating a Profile in Jira
+ - User Guide- ![Assigning Tasks in Jira](https://1drv.ms/w/s!AvY51_mRYwHq7iW8xRfX3shosg3g?e=uAreEP)
 
