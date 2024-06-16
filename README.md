@@ -10,7 +10,7 @@ I worked as an academician that gave me experience in professional skills, espec
 
   ## Software Knowledge
   - Authoring Tools: Microsoft Office, Adobe FrameMaker, Oxygen XML Authoring, Confluence, SharePoint
-  - Graphic Design: Camtasia, MadCap Flare
+  - Graphic Design: Camtasia, MadCap Flare, Snagit
   - Management Tool: Jira
   - Agile Project Management
 
