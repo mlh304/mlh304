@@ -1,7 +1,7 @@
 # Hello, I'm HARIRAMAKRISHNAN
 
 ## Objective
-I'm working as an academician that gave me experience in professional skills, especially proofreading, frame-making, and content-writing skills. Now I'm eagerly looking for a field transition in the industry as a Technical Writer.
+Ability and willingness to learn new skills and challenges to upgrade experience to give the maximum effort for completing the tasks on time with perfection. Effective communicator with great technological expertise currently looking for a Technical Writer position.
 
 ## Experience
  - Eight years of professional experience as a Teaching Instructor in Universities.
