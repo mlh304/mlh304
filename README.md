@@ -10,9 +10,9 @@ Ability and willingness to learn new skills and challenges to upgrade experience
 
   ## Software Knowledge
   - Authoring Tools: Microsoft Office, Adobe FrameMaker, Oxygen XML Authoring, Confluence, SharePoint
-  - Graphic Design: Camtasia, MadCap Flare, Snagit
+  - Graphic Design: Camtasia, Snagit
   - Management Tool: Jira
-  - Agile Project Management
+  - Agile Methodologies
 
 ## Academic Skills
   - Master of Engineering, Anna University, Chennai, India – 2013.
