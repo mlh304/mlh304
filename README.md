@@ -12,17 +12,17 @@ Ability and willingness to learn new skills and challenges to upgrade experience
 ## Sabre Airline Solutions - December 2022 - May 2023
 - Collaborated with the Subject Matter Experts to analyze complex technical details of the software to know the functional specification in the crew managing software that helped to execute the perfect user guide.
   
-  ## Software Knowledge
-  - Authoring Tools: Microsoft Office, Adobe FrameMaker, Oxygen XML Authoring, Confluence, SharePoint
-  - Graphic Design: Camtasia, Snagit
-  - Management Tool: Jira
-  - Agile Methodologies
+## Software Knowledge
+- Authoring Tools: Microsoft Office, Adobe FrameMaker, Oxygen XML Authoring, Confluence, SharePoint
+- Graphic Design: Camtasia, Snagit
+- Management Tool: Jira
+- Agile Methodologies
 
 ## Certification
 -	Technical Writing Course conducted by Tech Writer’s Tribe, Hyderabad.
 
 ## Academic Skills
-  - Master of Engineering, Anna University, Chennai, India – 2013.
+- Master of Engineering, Anna University, Chennai, India – 2013.
   
 ## Test Projects
  - Concept Topic- [Getting Started with Jira](https://1drv.ms/w/s!AvY51_mRYwHq7zFmLQI2k538IvtF?e=CZa8KJ)
