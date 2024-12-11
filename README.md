@@ -25,9 +25,9 @@ Ability and willingness to learn new skills and challenges to upgrade experience
 - Master of Engineering, Anna University, Chennai, India – 2013.
   
 ## Test Projects
- - Concept Topic- [Getting Started with Jira](https://1drv.ms/w/s!AvY51_mRYwHq7zFmLQI2k538IvtF?e=CZa8KJ)
- - Task Topic- [Creating a Profile in Jira](https://1drv.ms/w/s!AvY51_mRYwHq7y9nU4o79zkDEZon?e=WaFstu)
- - User Guide- [Assigning Tasks in Jira](https://1drv.ms/w/s!AvY51_mRYwHq7iW8xRfX3shosg3g?e=uAreEP)
+ - Concept Topic- [Getting Started with Jira]()
+ - Task Topic- [Creating a Profile in Jira]()
+ - User Guide- [Assigning Tasks in Jira]()
 
 ### For more information
 - [Resume]()
